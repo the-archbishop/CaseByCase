@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="public/logo_color.png" alt="Logo"><br>
+    <img src="client/public/logo_color.png" alt="Logo"><br>
 </p>
 
 ## Overview
